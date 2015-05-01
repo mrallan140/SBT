@@ -1,0 +1,10 @@
+ name: SBT
+ version: 1.0
+ author: Mrallan140
+ main: fr.mrallan140.SBT.Main
+ commands:
+  SBT:
+  spect:
+  survie:
+  crea:
+  adven:
